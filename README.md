@@ -19,4 +19,4 @@ Our project is split into three sections:
 # Data
 Data is downloaded from the yahoo finance Python library - [https://pypi.org/project/yfinance/](https://pypi.org/project/yfinance/).
 
-[trading_functions.py](https://github.com/lukablagoje/algo-trading-group-trends-graphs/blob/main/trading_functions.py) - Python file where all used functions are stored.
+Python file where all used functions are stored - [trading_functions.py](https://github.com/lukablagoje/algo-trading-group-trends-graphs/blob/main/trading_functions.py) 
