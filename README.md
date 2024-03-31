@@ -9,7 +9,7 @@ This project is part of a competition at WUTIS - Academic Trading And Investment
 # Technical Project Overview
 Our project is split into three sections:
 
-[1. data_collection_graph_analysis.ipynb](1. data_collection_graph_analysis.ipynb) - Collecting the data, constructing the representation graph and analyzing potential group parameters.
+(1. data_collection_graph_analysis.ipynb)[1. data_collection_graph_analysis.ipynb] - Collecting the data, constructing the representation graph and analyzing potential group parameters.
 
 Trend Analysis: By analyzing the structure and evolution of the graph, we identified groups of stocks (subgraphs) that exhibit similar trends over time. This analysis allowed us to spot outlier stocks that deviate from their group's overall trend.
 
