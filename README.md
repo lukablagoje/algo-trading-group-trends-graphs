@@ -14,9 +14,9 @@ Our project is split into three sections:
 
 [2. group_trends_trading_strategy.ipynb](https://github.com/lukablagoje/algo-trading-group-trends-graphs/blob/main/2.%20group_trends_trading_strategy.ipynb) - Formulating a trading strategy around the stocks that deviate and potentially returning to group trends.
 
-[3. parameter_optimization_strategy.ipynb] - Backtesting and ranking based on the historical data to find optimal parameters.
+[3. parameter_optimization_strategy.ipynb](https://github.com/lukablagoje/algo-trading-group-trends-graphs/blob/main/3.%20parameter_optimization_strategy.ipynb) - Backtesting and ranking based on the historical data to find optimal parameters.
 
-[trading_functions.py] - Python file where all used functions are stored.
+[trading_functions.py](https://github.com/lukablagoje/algo-trading-group-trends-graphs/blob/main/trading_functions.py) - Python file where all used functions are stored.
 
 
 # Data
