@@ -17,8 +17,7 @@ Our project is split into three sections:
 [3. parameter_optimization_strategy.ipynb] - Backtesting and ranking based on the historical data to find optimal parameters.
 
 [trading_functions.py] - Python file where all used functions are stored.
-## Finding correlation groups in the training period:
-![image](https://github.com/lukablagoje/quant_trading_networks/assets/52599010/53396e03-41d0-4ae3-a073-1f83fda918cc)
+
 
 # Data
 ![image](https://github.com/lukablagoje/quant_trading_networks/assets/52599010/3ddf0297-719b-44d5-b28b-fc531d5f47ba)
