@@ -20,6 +20,5 @@ Our project is split into three sections:
 
 
 # Data
-![image](https://github.com/lukablagoje/quant_trading_networks/assets/52599010/3ddf0297-719b-44d5-b28b-fc531d5f47ba)
-
- More details are in the [presentation file](https://github.com/lukablagoje/quant_trading_networks/blob/c83d7c6ddf2d7c90bacaa193ef0cf766ddb4efbd/network_representation_assets.pdf)
+Data is downloaded from the yahoo finance Python library - [https://pypi.org/project/yfinance/](https://pypi.org/project/yfinance/).
+[trading_functions.py](https://github.com/lukablagoje/algo-trading-group-trends-graphs/blob/main/trading_functions.py) - Python file where all used functions are stored.
