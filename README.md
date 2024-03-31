@@ -16,9 +16,7 @@ Our project is split into three sections:
 
 [3. parameter_optimization_strategy.ipynb](https://github.com/lukablagoje/algo-trading-group-trends-graphs/blob/main/3.%20parameter_optimization_strategy.ipynb) - Backtesting and ranking based on the historical data to find optimal parameters.
 
-[trading_functions.py](https://github.com/lukablagoje/algo-trading-group-trends-graphs/blob/main/trading_functions.py) - Python file where all used functions are stored.
-
-
 # Data
 Data is downloaded from the yahoo finance Python library - [https://pypi.org/project/yfinance/](https://pypi.org/project/yfinance/).
+
 [trading_functions.py](https://github.com/lukablagoje/algo-trading-group-trends-graphs/blob/main/trading_functions.py) - Python file where all used functions are stored.
