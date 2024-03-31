@@ -4,18 +4,17 @@ This project is part of a competition at WUTIS - Academic Trading And Investment
 ### Finding correlation groups in the training period:
 ![image](https://github.com/lukablagoje/quant_trading_networks/assets/52599010/53396e03-41d0-4ae3-a073-1f83fda918cc)
 
-## Finding assests that deviate from group trends:
+### Finding assets that deviate from group trends:
 ![image](https://github.com/lukablagoje/quant_trading_networks/assets/52599010/3ddf0297-719b-44d5-b28b-fc531d5f47ba)
-Project Overview
-The core of our project revolves around the following key components:
+# Technical Project Overview
+Our project is split into three sections:
 
-Graph Construction: We developed an algorithm to construct a graph representation where nodes represent individual stocks and edges denote the cross-correlation between stock prices over a sliding time window. This graph evolves over time, reflecting the changing dynamics of the market.
+[1. data_collection_graph_analysis.ipynb](1. data_collection_graph_analysis.ipynb) - Collecting the data, constructing the representation graph and analyzing potential group parameters.
 
 Trend Analysis: By analyzing the structure and evolution of the graph, we identified groups of stocks (subgraphs) that exhibit similar trends over time. This analysis allowed us to spot outlier stocks that deviate from their group's overall trend.
 
 Signal Generation: Leveraging the insights from our graph analysis, we designed an algorithmic trading strategy that trades based on the expectation that outlier stocks will revert to their group's trend. This strategy includes rigorous backtesting over multiple market conditions to validate its effectiveness.
-
-Backtesting Framework: Our backtesting infrastructure simulates the performance of our trading strategy using historical data, allowing us to refine our approach based on empirical evidence.
+3. parameter_optimization_strategy.ipynb - Backtesting baed on the historical data to find optimal parameters.
 ## Finding correlation groups in the training period:
 ![image](https://github.com/lukablagoje/quant_trading_networks/assets/52599010/53396e03-41d0-4ae3-a073-1f83fda918cc)
 
